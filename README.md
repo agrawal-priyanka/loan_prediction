@@ -19,7 +19,7 @@ Dataset comprises of training as well as testing dataset. ML models are trained 
 5) Pickle
 
 ## Procedure
-####Step 1: Loading and Data Preprocessing of train and test dataset
+#### Step 1: Loading and Data Preprocessing of train and test dataset
 To load the dataset, the Pandas library was utilised. The target column in the Train dataset—"Loan Status"—has 613 rows and 13 columns. Comparatively, test data is made up of 367 rows and 12 columns. 
 There are null values in either dataset. Removing rows with null values could not be beneficial because the dimensionality of the dataset is enormous and practically every row contains some null values. This could shrink our dataset and, in turn, impair model performance. Therefore, null values were imputed using the Miceforest package. Prior to then, integer values were assigned to category variables. 
 
