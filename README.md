@@ -1,6 +1,6 @@
 # Loan Approval Prediction 
 ## AIM
-This Machine Learning project aims to predict status of loan based on various factors like credit history, applicant's and coaapplicant's income, loan term, loan amount, ownership of property etc.
+This Machine Learning project aims to predict status of loan based on various factors like credit history, applicant's and coapplicant's income, loan term, loan amount, ownership of property etc.
 
 ## Dataset
 Dataset comprises of training as well as testing dataset. ML models are trained on training dataset and then tested upon the testing dataset.
@@ -11,7 +11,7 @@ Dataset comprises of training as well as testing dataset. ML models are trained 
 3) Random Forest Classifier
 4) XG Boost
 
-## Tools and Pckages used:
+## Tools and Packages used:
 1) Python
 2) Pandas
 3) Scikit Learn
