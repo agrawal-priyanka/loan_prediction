@@ -40,9 +40,10 @@ Precision score was thought to be a better measure than accuracy because the tra
 Models were optimized with the GridSearchCV to fine tune the best parameters for each of the model
 
 #### Step 6: Selection of the best model and Training
-Based on precision score of all 4 models, Random Forest delivered comparatively higher precision score as well as accuracy. Whole of training dataset will trained on Random Forest Model 
+Based on precision score of all 4 models, Random Forest delivered comparatively higher precision score as well as accuracy. Whole of training dataset will trained on Random Forest Model. Model was saved using Pickle library.
 
 #### Step 7: Testing model on Test Dataset 
+Test dataset was tested after uploading the Pickle model.
 
 
 
